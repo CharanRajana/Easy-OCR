@@ -17,7 +17,7 @@ It also includes few notable features that may come useful.
 
 ## Screenshots
 
-![scan](/screenshots/s1.png)
+![<img src="/screenshots/s1.png" width=160>](/screenshots/s1.png)
 ![generate](/screenshots/s2.png)
 ![history](/screenshots/s3.png)
 ![scan-overlay](/screenshots/scan.png)

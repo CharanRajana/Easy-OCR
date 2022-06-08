@@ -1,16 +1,29 @@
-# quick_scan
 
-A new Flutter project.
+# Quick QR
 
-## Getting Started
+Yes, Yet another QR Scanner and Generator. But it is a cross platform application built using flutter and also as the name suggests, it is really quick and easy to scan/generate a QR code.
 
-This project is a starting point for a Flutter application.
+It also includes few notable features that may come useful.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scan
+- Generate
+- Cross platform
+- See a history of all the previous scans
+
+
+
+## Screenshots
+
+![scan](/screenshots/s1.png)
+![generate](/screenshots/s2.png)
+![history](/screenshots/s3.png)
+![scan-overlay](/screenshots/scan.png)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+

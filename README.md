@@ -1,7 +1,7 @@
 
 # Quick QR
 
-Yes, Yet another QR Scanner and Generator. But it is a cross platform application built using flutter and also as the name suggests, it is really quick and easy to scan/generate a QR code.
+Yes, Yet another QR code Scanner and Generator. But it is a cross platform application built using flutter and also as the name suggests, it is really quick and easy to scan/generate a QR code.
 
 It also includes few notable features that may come useful.
 
